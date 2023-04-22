@@ -128,3 +128,10 @@ h1 {
 .job-block1 {
   margin-top: 25px;
 }
+.educated-skills {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
