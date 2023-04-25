@@ -9,11 +9,11 @@ body {
   justify-content: center;
   margin: 0 auto;
   background: #ffff;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 1);
+  box-shadow: 6px 6px 20px rgb(27, 27, 27);
 }
 aside {
   width: 370px;
-  background: #1e2939;
+  background: #2b3b52;
 }
 .cv-photo {
   margin-top: 25px;
@@ -21,6 +21,7 @@ aside {
 .header-secondary {
   color: #ffffff;
 }
+
 .contact-links {
   color: #ffffff;
   font-weight: 400;
@@ -40,6 +41,9 @@ aside {
 }
 .list-secondary-item {
   color: #ffffff;
+}
+.list-secondary-item:hover {
+  font-size: 15px;
 }
 .contac-block {
   margin-top: 51px;
@@ -68,6 +72,7 @@ h1 {
   font-weight: 700px;
   font-size: 45px;
   line-height: 55px;
+  color: rgb(9, 173, 9);
 }
 .description {
   font-weight: 400;
